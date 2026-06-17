@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand palette (mirrors ui/theme/Color.kt) -->
+    <color name="crimson">#C0142A</color>
+    <color name="navy">#0D1B2E</color>
+    <color name="off_white">#F5F5F5</color>
+    <color name="accent_red">#FF1E36</color>
+    <color name="dark_bg">#080E18</color>
+    <color name="admin_gold">#C8A400</color>
+
+    <!-- Splash window background -->
+    <color name="splash_background">#080E18</color>
+</resources>

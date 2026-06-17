@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Open Wheel Regulations</string>
+
+    <!-- Splash / branding -->
+    <string name="brand_wordmark">OWR</string>
+
+    <!-- Content descriptions -->
+    <string name="cd_app_logo">Open Wheel Regulations logo</string>
+    <string name="cd_search">Search seasons</string>
+    <string name="cd_bookmarks">View bookmarks</string>
+    <string name="cd_settings">Open settings</string>
+    <string name="cd_back">Back</string>
+    <string name="cd_bookmark_toggle">Toggle bookmark</string>
+
+    <!-- About / legal -->
+    <string name="disclaimer_short">Unofficial fan-made app. Not affiliated with FOM, FIA, or Formula 1.</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--
+      Launch theme. Uses androidx core-splashscreen so the system shows a brief,
+      branded splash window before the activity content (the in-app animated Compose
+      splash) takes over. `postSplashScreenTheme` swaps to the real app theme.
+    -->
+    <style name="Theme.OWR" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/splash_background</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_launcher_foreground</item>
+        <item name="postSplashScreenTheme">@style/Theme.OWR.Main</item>
+    </style>
+
+    <!--
+      Base application theme. All real UI is themed in Compose (see ui/theme/Theme.kt),
+      so this only needs to be a plain no-action-bar shell; Compose handles light/dark
+      itself. Parenting off the platform theme avoids pulling in the View-based Material
+      Components library.
+    -->
+    <style name="Theme.OWR.Main" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/dark_bg</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+
+</resources>

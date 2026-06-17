@@ -1,0 +1,19 @@
+# Build outputs
+/build
+/app/build
+.gradle
+/captures
+
+# IDE / machine-specific
+/.idea
+*.iml
+/local.properties
+
+# Signing keys — NEVER commit these
+*.jks
+*.keystore
+
+# Misc
+*.aab
+*.apk
+.DS_Store

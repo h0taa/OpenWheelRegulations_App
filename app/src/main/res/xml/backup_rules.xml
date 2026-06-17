@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  The app stores only a local Room database and DataStore preferences, neither of
+  which contains personal data. Default full-backup behaviour is fine.
+-->
+<full-backup-content>
+</full-backup-content>

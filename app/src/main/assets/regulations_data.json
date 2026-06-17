@@ -1,0 +1,633 @@
+{
+  "schemaVersion": 1,
+  "years": [
+    {
+      "year": 2026,
+      "eraName": "New Era — Active Aero & 50/50 Hybrid",
+      "headline": "All-new power units, active aerodynamics and smaller cars reboot Formula 1.",
+      "keyChanges": [
+        "Power split moves to roughly 50/50 between the combustion engine and the electric motor.",
+        "The MGU-H is removed and MGU-K electrical output nearly triples, from 120kW to 350kW.",
+        "Active aerodynamics arrive: front and rear wings switch between low-drag and high-downforce modes.",
+        "DRS is replaced by an electric 'Override' power boost for a car attacking the one ahead.",
+        "Cars are smaller and lighter: a shorter wheelbase, narrower bodywork and floor, and about 30kg less weight."
+      ],
+      "carDimensions": "Narrower (around 100mm less) and lighter (around 30kg less) with a 200mm shorter maximum wheelbase of 3.4m and a narrower 1.9m floor. Ground-effect downforce is reduced by roughly 15-30% and overall drag is cut by up to around 40%.",
+      "powerUnit": "The 1.6-litre V6 turbo is retained but with reduced combustion output. The complex MGU-H is gone and the MGU-K jumps from 120kW to 350kW for a roughly 50/50 power split, all running on fully sustainable fuel under a new energy-based fuel-flow limit.",
+      "aerodynamicRules": "Formula 1's first full-time active aerodynamics: the front and rear wings move between a low-drag 'straight' mode and a high-downforce 'corner' mode. Ground-effect tunnels are reduced and overall drag is cut sharply to complement the new power units.",
+      "tyreRegulations": "18-inch Pirelli wheels are retained, but the front tyres are about 25mm narrower and the rears about 30mm narrower to save weight and reduce drag.",
+      "notableImpact": "Billed by the FIA as the biggest technical change in the sport's history, arriving with a record six power-unit manufacturers, including Audi, a returning Honda and Red Bull Ford Powertrains, drawn in by the simpler hybrid concept.",
+      "funFacts": [
+        "The 2026 MGU-K is almost three times more powerful than the 2025 version, jumping from 120kW to 350kW.",
+        "Removing the complex MGU-H helped attract a record six engine manufacturers, including Audi and Cadillac / General Motors."
+      ],
+      "isMajorChange": true,
+      "visualComponents": [
+        { "component": "engine", "category": "Power Unit", "label": "50/50 hybrid split", "previousValue": "About 80% engine, 20% electric", "newValue": "About 50% engine, 50% electric" },
+        { "component": "engine", "category": "Power Unit", "label": "MGU-H removed", "previousValue": "MGU-H plus MGU-K (120kW)", "newValue": "MGU-K only, up to 350kW" },
+        { "component": "frontWing", "category": "Aerodynamics", "label": "Active aerodynamics", "previousValue": "Fixed wings with a DRS flap", "newValue": "Moving front and rear wings" },
+        { "component": "body", "category": "Chassis", "label": "Smaller, lighter car", "previousValue": "About 798kg, 3.6m wheelbase", "newValue": "About 30kg lighter, 3.4m wheelbase" },
+        { "component": "tyre", "category": "Tyres", "label": "Narrower tyres", "previousValue": "Wider 18-inch tyres", "newValue": "Narrower (front -25mm, rear -30mm)" }
+      ]
+    },
+    {
+      "year": 2025,
+      "eraName": "Ground Effect Era — Final Year",
+      "headline": "The last season before Formula 1's biggest-ever rule reset.",
+      "keyChanges": [
+        "Final year of the 2022 ground-effect regulations before the 2026 reboot.",
+        "Tighter front- and rear-wing flexibility tests to stop flexing 'mini-DRS' wings.",
+        "A mandatory two-stop strategy was trialled at the Monaco Grand Prix.",
+        "Cooling allowances and minor safety updates."
+      ],
+      "carDimensions": "Carried over from the ground-effect ruleset: a minimum weight of around 800kg with prescriptive bodywork around the underfloor tunnels.",
+      "powerUnit": "1.6-litre V6 turbo-hybrid in its final season, with groundwork laid for the 2026 switch to fully sustainable fuel.",
+      "aerodynamicRules": "Clampdowns on flexing rear wings and bendy front wings, with the rest of the aero package stable ahead of 2026.",
+      "tyreRegulations": "18-inch Pirelli tyres, with Monaco running a one-off mandatory two-stop rule to liven up the race.",
+      "notableImpact": "A transitional year as teams balanced winning in 2025 against preparing for the all-new 2026 rules.",
+      "funFacts": [
+        "Monaco 2025 forced every driver to make at least two pit stops in an attempt to spice up a processional race.",
+        "2025 closed out the turbo-hybrid V6 era that had begun back in 2014."
+      ],
+      "isMajorChange": false,
+      "visualComponents": []
+    },
+    {
+      "year": 2024,
+      "eraName": "Ground Effect Era",
+      "headline": "Fine-tuning the ground-effect cars before the 2026 revolution.",
+      "keyChanges": [
+        "Largely stable regulations with minor aerodynamic and bodywork tweaks.",
+        "Clarifications on front-wing flexibility and additional cooling provisions.",
+        "DRS and bodywork refinements."
+      ],
+      "carDimensions": "Unchanged ground-effect dimensions with a minimum weight of around 798kg.",
+      "powerUnit": "1.6-litre V6 turbo-hybrid under the ongoing development freeze, with teams beginning to split focus toward 2026.",
+      "aerodynamicRules": "Stable ground-effect rules; teams converged on similar 'downwash' sidepod concepts as the design matured.",
+      "tyreRegulations": "18-inch Pirelli tyres with refined compound choices per event.",
+      "notableImpact": "A closer competitive picture emerged as rivals caught the front-running team through the year.",
+      "funFacts": [
+        "By 2024 most teams had converged on a similar downwash sidepod concept.",
+        "Teams increasingly diverted resources to their 2026 projects during the season."
+      ],
+      "isMajorChange": false,
+      "visualComponents": []
+    },
+    {
+      "year": 2023,
+      "eraName": "Ground Effect Era",
+      "headline": "Floor edges raised to stamp out the bouncing that plagued 2022.",
+      "keyChanges": [
+        "Floor edges and the diffuser throat raised to reduce porpoising and bouncing.",
+        "Stricter roll-hoop load tests after a high-profile 2022 crash.",
+        "Tweaks to diffuser and floor-edge regulations."
+      ],
+      "carDimensions": "Ground-effect dimensions carried over, minimum weight around 798kg.",
+      "powerUnit": "1.6-litre V6 turbo-hybrid under the ongoing freeze.",
+      "aerodynamicRules": "Floor edges lifted by 15mm and the diffuser throat raised to curb the violent bouncing of 2022.",
+      "tyreRegulations": "18-inch Pirelli tyres, with an alternative tyre allocation trialled at some events.",
+      "notableImpact": "The leading team produced one of the most dominant seasons in history, winning all but one race.",
+      "funFacts": [
+        "The 2023 season featured the most dominant constructor campaign in F1 history.",
+        "Roll-hoop tests were toughened after a dramatic 2022 Silverstone crash."
+      ],
+      "isMajorChange": false,
+      "visualComponents": []
+    },
+    {
+      "year": 2022,
+      "eraName": "Ground Effect Era",
+      "headline": "Ground-effect cars return so drivers can race wheel-to-wheel again.",
+      "keyChanges": [
+        "A ground-effect underfloor with Venturi tunnels replaces the flat floor.",
+        "Simplified over-wheel aerodynamics and a curled-over front wing and endplate.",
+        "18-inch wheels with low-profile Pirelli tyres replace the long-running 13-inch wheels.",
+        "Wheel covers and over-wheel winglets return; bargeboards are banned.",
+        "Minimum weight rises to a record of around 798kg."
+      ],
+      "carDimensions": "The heaviest cars ever at around 798kg minimum, with standardised, prescriptive bodywork built around a ground-effect floor.",
+      "powerUnit": "1.6-litre V6 turbo-hybrid carried over under a development freeze, with a switch to E10 fuel (10% ethanol).",
+      "aerodynamicRules": "Downforce is generated mainly by shaped underfloor tunnels rather than wings, cutting the turbulent wake so a following car keeps far more of its downforce, the change designed to enable closer racing. Early cars suffered violent 'porpoising' bouncing on the straights.",
+      "tyreRegulations": "All-new 18-inch low-profile Pirelli tyres with stiffer sidewalls replace the 13-inch tyres used for decades.",
+      "notableImpact": "A new front-runner emerged and dominated, while many cars suffered violent porpoising as their floors stalled at speed.",
+      "funFacts": [
+        "Ground effect was last used in F1 in 1982 before being banned on safety grounds.",
+        "The 2022 cars were so prone to bouncing that the FIA introduced an anti-porpoising metric mid-season."
+      ],
+      "isMajorChange": true,
+      "visualComponents": [
+        { "component": "floor", "category": "Aerodynamics", "label": "Ground-effect floor", "previousValue": "Flat floor, wing-led downforce", "newValue": "Venturi tunnels underneath" },
+        { "component": "frontWing", "category": "Aerodynamics", "label": "Simplified front wing", "previousValue": "Complex multi-element wing", "newValue": "Simple wing, curled endplate" },
+        { "component": "tyre", "category": "Tyres", "label": "18-inch wheels", "previousValue": "13-inch wheels", "newValue": "18-inch low-profile tyres" },
+        { "component": "body", "category": "Chassis", "label": "Heaviest cars ever", "previousValue": "About 752kg minimum", "newValue": "About 798kg minimum" }
+      ]
+    },
+    {
+      "year": 2021,
+      "eraName": "Hybrid Power Unit Era — Cost Cap",
+      "headline": "A budget cap arrives and the floors are trimmed again.",
+      "keyChanges": [
+        "The first-ever cost cap (around $145m) limits team spending.",
+        "Floor, diffuser and rear-brake-duct downforce cut by roughly 10%.",
+        "Aerodynamic testing restrictions scaled by championship position.",
+        "A power-unit development freeze is agreed to begin in 2022."
+      ],
+      "carDimensions": "Wide-body dimensions carried over, minimum weight around 752kg.",
+      "powerUnit": "1.6-litre V6 turbo-hybrid, with a development freeze agreed to start the following year.",
+      "aerodynamicRules": "A diagonal floor cut and smaller diffuser fences reduced downforce, hitting low-rake cars hardest.",
+      "tyreRegulations": "Pirelli moved to a more robust tyre construction after failures the previous season.",
+      "notableImpact": "The title was decided on the final lap of the final race in one of the most controversial deciders ever, in Abu Dhabi.",
+      "funFacts": [
+        "The cost cap was F1's first serious attempt to level spending between the richest and poorest teams.",
+        "The 2021 championship was settled on the very last lap of the very last race amid huge controversy."
+      ],
+      "isMajorChange": false,
+      "visualComponents": []
+    },
+    {
+      "year": 2020,
+      "eraName": "Hybrid Power Unit Era",
+      "headline": "A pandemic-hit season with minor floor cuts.",
+      "keyChanges": [
+        "2021 chassis development frozen due to COVID-19; the 2020 cars are largely carried over.",
+        "Floor, diffuser and brake-duct cuts reduce downforce for tyre safety.",
+        "Qualifying 'party modes' are banned from mid-season."
+      ],
+      "carDimensions": "Wide-body dimensions carried over, minimum weight around 746kg.",
+      "powerUnit": "1.6-litre V6 turbo-hybrid, with engine modes effectively frozen during a race weekend from mid-season.",
+      "aerodynamicRules": "Small floor cut-outs and diffuser changes reduced load on Pirelli's tyres after stresses the previous year.",
+      "tyreRegulations": "Mostly the previous year's tyres re-used, with record-fast laps at Mugello and Monza.",
+      "notableImpact": "A compressed 17-race calendar saw the leading driver equal Michael Schumacher's record of seven world titles.",
+      "funFacts": [
+        "The 2020 season started in July and squeezed 17 races into the year after COVID delays.",
+        "Banning 'party mode' stopped teams cranking up engine power for a single qualifying lap."
+      ],
+      "isMajorChange": false,
+      "visualComponents": []
+    },
+    {
+      "year": 2019,
+      "eraName": "Hybrid Power Unit Era",
+      "headline": "Simplified front wings aim to help cars follow more closely.",
+      "keyChanges": [
+        "A wider, simpler front wing with fewer elements to cut outwash.",
+        "A larger, simpler rear wing with integrated DRS.",
+        "An extra 10kg minimum weight and more race fuel allowed (110kg).",
+        "Standardised biometric gloves for driver safety."
+      ],
+      "carDimensions": "Wide-body dimensions carried over, minimum weight raised to around 743kg.",
+      "powerUnit": "1.6-litre V6 turbo-hybrid, with the race fuel allowance raised to 110kg.",
+      "aerodynamicRules": "The front wing was widened and simplified, brake-duct winglets trimmed, and the rear wing enlarged to make following easier, a stop-gap before the 2022 overhaul.",
+      "tyreRegulations": "Pirelli simplified its naming into a numbered C1-to-C5 range chosen per event.",
+      "notableImpact": "Mercedes won the opening five races and cruised to another double title.",
+      "funFacts": [
+        "Pirelli simplified its confusing compound names into a simple C1-to-C5 scale in 2019.",
+        "The 2019 aero tweaks were a preview of the close-racing philosophy behind the 2022 rules."
+      ],
+      "isMajorChange": false,
+      "visualComponents": []
+    },
+    {
+      "year": 2018,
+      "eraName": "Wide-Body Era — Halo",
+      "headline": "The Halo cockpit-protection device becomes mandatory.",
+      "keyChanges": [
+        "The Halo cockpit-protection structure is mandated on all cars.",
+        "Shark fins and rear T-wings are effectively banned.",
+        "A three-engine-per-season limit tightens reliability demands."
+      ],
+      "carDimensions": "Wide-body dimensions, minimum weight raised to around 734kg to account for the Halo.",
+      "powerUnit": "1.6-litre V6 turbo-hybrid, with drivers limited to three power units for the season.",
+      "aerodynamicRules": "Engine-cover shark fins and rear T-wings were outlawed; the Halo added a small new aerodynamic challenge.",
+      "tyreRegulations": "Pirelli introduced hypersoft and superhard compounds, widening the range.",
+      "notableImpact": "Mercedes fended off a strong Ferrari challenge, and the Halo was quickly vindicated in several crashes.",
+      "funFacts": [
+        "The Halo is strong enough to support the weight of a London double-decker bus.",
+        "Many criticised the Halo's looks in 2018, but it has since saved several drivers' lives."
+      ],
+      "isMajorChange": false,
+      "visualComponents": []
+    },
+    {
+      "year": 2017,
+      "eraName": "Wide-Body Era",
+      "headline": "Wider, faster, more aggressive cars deliver record lap times.",
+      "keyChanges": [
+        "Cars are made wider: bodywork grows to 2000mm with wider front and rear wings.",
+        "Wider tyres (front +60mm, rear +80mm) for much more mechanical grip.",
+        "A larger diffuser and lower, swept-back rear wing for big downforce gains.",
+        "Minimum weight raised to accommodate the bigger cars."
+      ],
+      "carDimensions": "Overall width back up to 2000mm from 1800mm, with a wider floor and diffuser and a minimum weight of 728kg.",
+      "powerUnit": "1.6-litre V6 turbo-hybrid, now more powerful and paired with far higher downforce.",
+      "aerodynamicRules": "Wider bodywork, a bigger front wing, a lower and wider swept-back rear wing, and a larger diffuser produced roughly 25-30% more downforce and dramatically faster cornering.",
+      "tyreRegulations": "Pirelli introduced significantly wider tyres to match the higher cornering loads.",
+      "notableImpact": "Lap records tumbled and the cars looked more dramatic, though overtaking became harder in dirty air.",
+      "funFacts": [
+        "The 2017 cars smashed pole-lap records that had stood since the V10 era.",
+        "The wider tyres offered roughly 25% more contact area than the 2016 rubber."
+      ],
+      "isMajorChange": true,
+      "visualComponents": [
+        { "component": "body", "category": "Chassis", "label": "Wider bodywork", "previousValue": "1800mm wide", "newValue": "2000mm wide" },
+        { "component": "tyre", "category": "Tyres", "label": "Wider tyres", "previousValue": "Narrower tyres", "newValue": "Front +60mm, rear +80mm" },
+        { "component": "rearWing", "category": "Aerodynamics", "label": "Lower swept rear wing", "previousValue": "Tall narrow rear wing", "newValue": "Lower, wider, swept back" },
+        { "component": "frontWing", "category": "Aerodynamics", "label": "Bigger wing and diffuser", "previousValue": "Smaller aero surfaces", "newValue": "Larger wing and diffuser, about +30% downforce" }
+      ]
+    },
+    {
+      "year": 2016,
+      "eraName": "Hybrid Power Unit Era",
+      "headline": "Engine tokens scrapped and radio coaching clamped down.",
+      "keyChanges": [
+        "The power-unit token development system is abolished, freeing engine development.",
+        "Strict limits placed on pit-to-car radio coaching.",
+        "A brief and unpopular elimination-style qualifying format is trialled."
+      ],
+      "carDimensions": "Narrow-body dimensions, minimum weight around 702kg.",
+      "powerUnit": "1.6-litre V6 turbo-hybrid, with development freer after the token system was dropped.",
+      "aerodynamicRules": "Stable aerodynamics ahead of the big 2017 changes.",
+      "tyreRegulations": "Pirelli expanded its compound range and let teams choose tyre allocations per race.",
+      "notableImpact": "Nico Rosberg edged his team-mate to the title and then immediately retired from the sport.",
+      "funFacts": [
+        "Rosberg retired just days after winning his only world championship.",
+        "The 2016 elimination-qualifying experiment was abandoned after only two races."
+      ],
+      "isMajorChange": false,
+      "visualComponents": []
+    },
+    {
+      "year": 2015,
+      "eraName": "Hybrid Power Unit Era",
+      "headline": "Tighter nose rules tidy up the cars' looks.",
+      "keyChanges": [
+        "Stricter nose-shape rules end the awkward 2014 'finger' noses.",
+        "The power-unit token development system continues.",
+        "The Virtual Safety Car is introduced."
+      ],
+      "carDimensions": "Narrow-body dimensions, minimum weight around 702kg.",
+      "powerUnit": "1.6-litre V6 turbo-hybrid developed within a 'token' system that limited changes.",
+      "aerodynamicRules": "Reworked nose regulations for safety and aesthetics.",
+      "tyreRegulations": "Pirelli control tyres with compound choices made per event.",
+      "notableImpact": "Mercedes and Lewis Hamilton dominated again, with the rest of the field chasing the silver cars.",
+      "funFacts": [
+        "The Virtual Safety Car was introduced after the 2014 Japanese Grand Prix tragedy.",
+        "Engine upgrades were rationed via a 'token' system that limited what could change."
+      ],
+      "isMajorChange": false,
+      "visualComponents": []
+    },
+    {
+      "year": 2014,
+      "eraName": "Hybrid Power Unit Era",
+      "headline": "Turbo-hybrid V6 power units usher in F1's most complex engines ever.",
+      "keyChanges": [
+        "1.6-litre V6 turbo-hybrid power units replace the 2.4-litre V8s.",
+        "Energy recovery via MGU-K and MGU-H feeds a battery for deployment.",
+        "Fuel is limited to 100kg per race with a 100kg/hr fuel-flow cap.",
+        "Eight-speed gearboxes are mandated and the minimum weight is raised.",
+        "A lower, narrower front wing and a single exhaust outlet."
+      ],
+      "carDimensions": "Minimum weight raised to 691kg, with lower noses for safety and the front wing narrowed to 1650mm.",
+      "powerUnit": "A 1.6-litre V6 single-turbo hybrid combining a combustion engine with MGU-K (kinetic) and MGU-H (heat) recovery, around 600 bhp from the engine plus roughly 160 bhp of electrical power, all under tight fuel limits.",
+      "aerodynamicRules": "Lower nose tips (producing some awkward shapes), a narrower front wing, and a single tailpipe that ended exhaust-blown aerodynamics.",
+      "tyreRegulations": "Pirelli tyres were tuned for the heavier, torquier hybrid cars.",
+      "notableImpact": "Mercedes began a period of total dominance, with Hamilton and Rosberg fighting for the title.",
+      "funFacts": [
+        "The 2014 power units recover energy from both braking and exhaust heat.",
+        "These hybrids became the most efficient racing engines ever, exceeding 50% thermal efficiency."
+      ],
+      "isMajorChange": true,
+      "visualComponents": [
+        { "component": "engine", "category": "Power Unit", "label": "V6 turbo-hybrid", "previousValue": "2.4L V8 naturally aspirated", "newValue": "1.6L V6 turbo plus ERS" },
+        { "component": "engine", "category": "Power Unit", "label": "Energy recovery", "previousValue": "KERS only (about 80 bhp)", "newValue": "MGU-K plus MGU-H to battery" },
+        { "component": "frontWing", "category": "Aerodynamics", "label": "Narrower nose and wing", "previousValue": "Wide front wing", "newValue": "Narrower wing, low nose" },
+        { "component": "body", "category": "Chassis", "label": "Fuel-flow limit", "previousValue": "Unlimited fuel use", "newValue": "100kg race, 100kg/hr flow" }
+      ]
+    },
+    {
+      "year": 2013,
+      "eraName": "V8 Era — Final Year",
+      "headline": "The last hurrah for the V8s before the hybrid revolution.",
+      "keyChanges": [
+        "DRS use is restricted to designated zones in practice and qualifying too.",
+        "Tyre construction is revised mid-season after a string of failures.",
+        "The final season of the 2.4-litre V8 formula."
+      ],
+      "carDimensions": "Narrow-body dimensions, minimum weight 642kg.",
+      "powerUnit": "2.4-litre V8 with KERS in its final season before hybrids.",
+      "aerodynamicRules": "Coanda-effect exhausts were refined, and DRS was now limited to race zones in all sessions.",
+      "tyreRegulations": "Pirelli switched tyre construction mid-season after high-profile blowouts at Silverstone.",
+      "notableImpact": "The leading driver won 13 races, including nine in a row, to claim a fourth consecutive title.",
+      "funFacts": [
+        "The champion won the final nine races of 2013 in succession.",
+        "2013 closed the book on naturally aspirated engines that had run since 1989."
+      ],
+      "isMajorChange": false,
+      "visualComponents": []
+    },
+    {
+      "year": 2012,
+      "eraName": "V8 Era",
+      "headline": "Stepped 'platypus' noses appear under new height rules.",
+      "keyChanges": [
+        "Lower nose-height rules produce distinctive stepped noses.",
+        "Exhaust position is standardised to curb blown-diffuser effects.",
+        "The minimum weight is raised slightly."
+      ],
+      "carDimensions": "Narrow-body dimensions, minimum weight 640kg.",
+      "powerUnit": "2.4-litre V8 with KERS.",
+      "aerodynamicRules": "Mandated lower chassis fronts forced ugly stepped noses, and exhaust outlets were relocated to reduce aerodynamic blowing of the diffuser.",
+      "tyreRegulations": "Pirelli high-degradation tyres produced an unusually unpredictable first half of the season.",
+      "notableImpact": "The title was decided by three points in a dramatic, rain-hit finale in Brazil.",
+      "funFacts": [
+        "The first seven races of 2012 produced seven different winners.",
+        "The stepped-nose rule was about safety, but teams disliked how it looked."
+      ],
+      "isMajorChange": false,
+      "visualComponents": []
+    },
+    {
+      "year": 2011,
+      "eraName": "V8 Era — DRS & Pirelli",
+      "headline": "DRS and Pirelli's high-degradation tyres transform the racing.",
+      "keyChanges": [
+        "The Drag Reduction System (DRS) is introduced to aid overtaking.",
+        "Pirelli replaces Bridgestone as sole supplier with deliberately high-degradation tyres.",
+        "KERS returns across the grid.",
+        "The 107% qualifying rule is reinstated."
+      ],
+      "carDimensions": "Narrow-body dimensions, minimum weight 640kg.",
+      "powerUnit": "2.4-litre V8 with KERS now standard equipment.",
+      "aerodynamicRules": "The movable rear-wing DRS was allowed freely in practice and qualifying and within zones in the race; off-throttle blown diffusers were restricted mid-season.",
+      "tyreRegulations": "Pirelli introduced tyres designed to degrade quickly, forcing multiple pit stops and varied strategy.",
+      "notableImpact": "Red Bull and Sebastian Vettel dominated, but races became far more action-packed.",
+      "funFacts": [
+        "Pirelli was specifically asked to build fast-degrading tyres to make races less predictable.",
+        "DRS could be used anywhere on the lap in qualifying in its first season."
+      ],
+      "isMajorChange": false,
+      "visualComponents": []
+    },
+    {
+      "year": 2010,
+      "eraName": "V8 Era",
+      "headline": "In-race refuelling is banned, putting strategy on tyres alone.",
+      "keyChanges": [
+        "Refuelling during races is banned; cars must start with full fuel.",
+        "Narrower front tyres to rebalance the heavier cars.",
+        "KERS is dropped by the teams for the season by agreement.",
+        "A new points system (25-18-15-12-10-8-6-4-2-1) for a larger grid."
+      ],
+      "carDimensions": "Narrow-body dimensions, minimum weight 620kg.",
+      "powerUnit": "2.4-litre V8; teams ran without KERS this year by agreement.",
+      "aerodynamicRules": "F-duct stalled-rear-wing systems and blown diffusers became the development battlegrounds.",
+      "tyreRegulations": "Bridgestone's final season, with narrower front tyres to balance cars now carrying full fuel loads.",
+      "notableImpact": "Sebastian Vettel became F1's youngest champion in a four-way title decider in Abu Dhabi.",
+      "funFacts": [
+        "Banning refuelling meant cars started races carrying over 150kg of fuel.",
+        "Four drivers could still mathematically win the title at the 2010 season finale."
+      ],
+      "isMajorChange": false,
+      "visualComponents": []
+    },
+    {
+      "year": 2009,
+      "eraName": "Aero Overhaul & KERS",
+      "headline": "A radical aero reset, the return of slick tyres, and KERS hybrid boost.",
+      "keyChanges": [
+        "A major aero overhaul: a wide, low front wing and a tall, narrow rear wing.",
+        "Slick tyres return after eleven years of grooved tyres.",
+        "KERS (Kinetic Energy Recovery System) is introduced as an optional hybrid boost.",
+        "Bargeboards and most aero appendages are banned to cut turbulent wake.",
+        "A driver-adjustable front-wing flap is permitted."
+      ],
+      "carDimensions": "Front wing widened to around 1800mm and lowered; rear wing made taller and narrower at around 750mm wide; minimum weight 605kg.",
+      "powerUnit": "2.4-litre V8 plus optional KERS giving around 80 bhp of boost for roughly 6.6 seconds per lap.",
+      "aerodynamicRules": "The front wing was widened and lowered, the rear wing raised and narrowed, and dozens of small aero devices banned to reduce 'dirty air' and aid overtaking. The double-diffuser loophole defined the season.",
+      "tyreRegulations": "Slick tyres returned for the first time since 1997, increasing mechanical grip, with Bridgestone the sole supplier.",
+      "notableImpact": "Brawn GP, born from the ashes of Honda, won both titles in a fairytale debut season by exploiting the double diffuser.",
+      "funFacts": [
+        "Brawn GP entered as a brand-new team and won both championships in its only full season.",
+        "KERS was optional in 2009, and several front-running teams chose not to run it at first."
+      ],
+      "isMajorChange": true,
+      "visualComponents": [
+        { "component": "frontWing", "category": "Aerodynamics", "label": "Wide low front wing", "previousValue": "Narrow high front wing", "newValue": "Wider and lower to the ground" },
+        { "component": "rearWing", "category": "Aerodynamics", "label": "Tall narrow rear wing", "previousValue": "Wide low rear wing", "newValue": "Taller and much narrower" },
+        { "component": "tyre", "category": "Tyres", "label": "Slick tyres return", "previousValue": "Grooved tyres", "newValue": "Slicks for more grip" },
+        { "component": "engine", "category": "Power Unit", "label": "KERS hybrid boost", "previousValue": "No energy recovery", "newValue": "KERS: about 80 bhp for 6.6s" }
+      ]
+    },
+    {
+      "year": 2008,
+      "eraName": "V8 Era",
+      "headline": "A standard ECU arrives and traction control is banned for good.",
+      "keyChanges": [
+        "A single standardised electronic control unit (ECU) is mandated.",
+        "Traction control and engine-braking aids are banned again.",
+        "Gearboxes must last four consecutive events."
+      ],
+      "carDimensions": "Narrow-body dimensions, minimum weight 605kg.",
+      "powerUnit": "2.4-litre V8 under a development freeze, with driver aids stripped away by the standard ECU.",
+      "aerodynamicRules": "The last year of the highly developed, appendage-heavy aero before the 2009 overhaul.",
+      "tyreRegulations": "Bridgestone grooved control tyres with two compounds per weekend.",
+      "notableImpact": "Lewis Hamilton won his first title at the final corner of the final lap in Brazil.",
+      "funFacts": [
+        "The standardised ECU finally removed traction control by making it technically impossible to run.",
+        "Hamilton clinched the 2008 title with a last-corner overtake on the final lap."
+      ],
+      "isMajorChange": false,
+      "visualComponents": []
+    },
+    {
+      "year": 2007,
+      "eraName": "V8 Era",
+      "headline": "Bridgestone becomes the sole tyre supplier.",
+      "keyChanges": [
+        "A single tyre supplier (Bridgestone) for the whole grid.",
+        "An engine development freeze begins to control costs.",
+        "Both dry compounds must be used during a race."
+      ],
+      "carDimensions": "Narrow-body dimensions, minimum weight 605kg.",
+      "powerUnit": "2.4-litre V8 under a development freeze, producing around 750 bhp.",
+      "aerodynamicRules": "Aero remained free, and teams developed intricate flick-ups and bridge wings.",
+      "tyreRegulations": "Bridgestone control tyres with two dry compounds per weekend, both of which had to be used; the softer was marked with a white sidewall groove.",
+      "notableImpact": "Kimi Raikkonen won the title for Ferrari by a single point in a three-way finale.",
+      "funFacts": [
+        "The 2007 title was decided by just one point between three drivers going into the finale.",
+        "With one tyre supplier, a white sidewall marking was introduced to identify the softer compound."
+      ],
+      "isMajorChange": false,
+      "visualComponents": []
+    },
+    {
+      "year": 2006,
+      "eraName": "V8 Era Begins",
+      "headline": "2.4-litre V8 engines replace the screaming V10s.",
+      "keyChanges": [
+        "Engines switch from the 3.0L V10 to a 2.4L V8 to cut power and cost.",
+        "Tyre changes during races are permitted again.",
+        "Mass-damper devices are banned mid-season.",
+        "A knockout qualifying format is introduced."
+      ],
+      "carDimensions": "Narrow-body dimensions, minimum weight 600kg.",
+      "powerUnit": "A new 2.4-litre naturally aspirated V8 producing around 750 bhp at up to roughly 20,000 rpm. Smaller teams could run a rev-limited V10 for one more year.",
+      "aerodynamicRules": "The mass-damper device used by Renault was banned by the FIA mid-season; aero was otherwise stable.",
+      "tyreRegulations": "Tyre changes were allowed again, ending the 2005 single-set rule, in the final season of the Bridgestone-Michelin war.",
+      "notableImpact": "Fernando Alonso beat Michael Schumacher to a second title in Schumacher's first farewell season.",
+      "funFacts": [
+        "2006 was the last season of the Bridgestone-Michelin tyre war before a single supplier took over.",
+        "Renault's banned 'mass damper' was a tuned weight that smoothed the car over bumps."
+      ],
+      "isMajorChange": false,
+      "visualComponents": []
+    },
+    {
+      "year": 2005,
+      "eraName": "V10 Era — Longevity Rules",
+      "headline": "No tyre changes and two-race engines force a rethink of durability.",
+      "keyChanges": [
+        "Tyres must last the entire race, with no changes except for safety or wet conditions.",
+        "One engine must last two race weekends.",
+        "An aero cut: the front wing is raised, the rear wing moved forward, and the diffuser revised to reduce downforce.",
+        "An aggregate-qualifying format is trialled, then dropped mid-season."
+      ],
+      "carDimensions": "Narrow-body dimensions with aero surfaces cut to slow the cars; minimum weight 605kg.",
+      "powerUnit": "3.0-litre V10 in its final season, now needing to last two weekends, a major reliability challenge.",
+      "aerodynamicRules": "The front wing was raised by 50mm, the rear wing brought forward, and the rear diffuser height reduced, a deliberate downforce cut for safety.",
+      "tyreRegulations": "A single set of tyres for qualifying and the full race distance dramatically changed strategy and rewarded tyre management; it led to the controversial US Grand Prix where the Michelin runners withdrew.",
+      "notableImpact": "Renault's Fernando Alonso ended Ferrari's run to become F1's youngest champion at the time, while the US GP saw only six cars start.",
+      "funFacts": [
+        "At the 2005 US Grand Prix only six cars raced after the Michelin teams withdrew over tyre safety.",
+        "The no-tyre-change rule made tyre management a defining driver skill for the season."
+      ],
+      "isMajorChange": true,
+      "visualComponents": [
+        { "component": "tyre", "category": "Tyres", "label": "No tyre changes", "previousValue": "Free tyre stops", "newValue": "One set, full race" },
+        { "component": "engine", "category": "Power Unit", "label": "Two-race engines", "previousValue": "One engine per weekend", "newValue": "One engine per two weekends" },
+        { "component": "frontWing", "category": "Aerodynamics", "label": "Raised front wing", "previousValue": "Low front wing", "newValue": "Front wing +50mm, less downforce" }
+      ]
+    },
+    {
+      "year": 2004,
+      "eraName": "V10 Era",
+      "headline": "One engine must now last an entire race weekend.",
+      "keyChanges": [
+        "Engines must survive a full race weekend or incur a ten-place grid penalty.",
+        "Aerodynamic tweaks to the rear wing and winglets.",
+        "Mid-season clampdown on extra aero appendages."
+      ],
+      "carDimensions": "Narrow-body dimensions, minimum weight 605kg.",
+      "powerUnit": "3.0-litre V10 with a new one-engine-per-weekend durability rule, with outputs near 900 bhp.",
+      "aerodynamicRules": "Limits on the number of winglets, with a mid-season clampdown on extra aero appendages.",
+      "tyreRegulations": "The Bridgestone-Michelin war at its peak, with Ferrari and Bridgestone dominant.",
+      "notableImpact": "Michael Schumacher won 13 of 18 races and a seventh world title.",
+      "funFacts": [
+        "2004 set a record with 13 wins for one driver in a single season.",
+        "The one-engine-per-weekend rule was F1's first real step toward engine-life limits."
+      ],
+      "isMajorChange": false,
+      "visualComponents": []
+    },
+    {
+      "year": 2003,
+      "eraName": "V10 Era — Sporting Shake-up",
+      "headline": "A new points system and single-lap qualifying are introduced to spice up the show.",
+      "keyChanges": [
+        "Points are awarded to the top eight (10-8-6-5-4-3-2-1) instead of the top six.",
+        "Single-car, one-lap qualifying replaces the old twelve-lap session.",
+        "Parc ferme rules lock car setup between qualifying and the race.",
+        "Spare-car usage during sessions is heavily restricted."
+      ],
+      "carDimensions": "Narrow-body dimensions, minimum weight 600kg (largely unchanged).",
+      "powerUnit": "3.0-litre V10, with engines still changeable between sessions.",
+      "aerodynamicRules": "Aero remained free as teams chased qualifying-specific low-fuel setups under the new format.",
+      "tyreRegulations": "The tyre war continued, with qualifying now run on race-fuel loads, changing tyre strategy.",
+      "notableImpact": "The closer points spread kept the title race alive late, with Schumacher beating Raikkonen by two points.",
+      "funFacts": [
+        "The 2003 points change was the first major overhaul of F1 scoring since 1991.",
+        "Single-lap qualifying meant one mistake could ruin a driver's entire weekend."
+      ],
+      "isMajorChange": true,
+      "visualComponents": [
+        { "component": "body", "category": "Sporting", "label": "Single-lap qualifying", "previousValue": "Twelve-lap qualifying hour", "newValue": "One timed lap each" },
+        { "component": "body", "category": "Sporting", "label": "Points to top 8", "previousValue": "Top 6 score (10-6-4-3-2-1)", "newValue": "Top 8 score (10-8-6-5-4-3-2-1)" },
+        { "component": "engine", "category": "Power Unit", "label": "Parc ferme lockdown", "previousValue": "Free setup before the race", "newValue": "Setup frozen after qualifying" }
+      ]
+    },
+    {
+      "year": 2002,
+      "eraName": "V10 Era",
+      "headline": "Ferrari's F2002 delivers one of the most dominant seasons in F1 history.",
+      "keyChanges": [
+        "Regulations were largely stable, with refinement of the electronic driver aids.",
+        "Continued tyre-war development between Bridgestone and Michelin.",
+        "Increasingly sophisticated traction and launch control."
+      ],
+      "carDimensions": "Narrow-body dimensions, minimum weight 600kg.",
+      "powerUnit": "3.0-litre V10, with outputs climbing past 850 bhp.",
+      "aerodynamicRules": "Free aero development, with teams pushing slim 'coke-bottle' rear bodywork.",
+      "tyreRegulations": "The Bridgestone-Michelin development war intensified.",
+      "notableImpact": "Ferrari won 15 of 17 races, and Schumacher finished every race on the podium.",
+      "funFacts": [
+        "Schumacher scored a podium in every single race of the 2002 season.",
+        "Ferrari secured the constructors' title by July, the earliest ever at the time."
+      ],
+      "isMajorChange": false,
+      "visualComponents": []
+    },
+    {
+      "year": 2001,
+      "eraName": "V10 Era — Electronic Aids Return",
+      "headline": "Traction control and launch control return mid-season after proving impossible to police.",
+      "keyChanges": [
+        "Traction control is re-legalised from the Spanish Grand Prix (round 5) onwards.",
+        "Launch control and fully automatic gearboxes are permitted again.",
+        "Beryllium alloys are banned in engines and other components.",
+        "Greater focus on electronic engine management."
+      ],
+      "carDimensions": "Unchanged from 2000: narrow-body dimensions, minimum weight 600kg.",
+      "powerUnit": "3.0-litre V10s, now paired with sophisticated electronic engine and traction-management software.",
+      "aerodynamicRules": "Aero development continued freely, with bargeboards and high noses refined.",
+      "tyreRegulations": "Michelin returned to F1 as a tyre supplier, reigniting the Bridgestone-Michelin tyre war and rapid compound development.",
+      "notableImpact": "The FIA conceded it could not reliably detect illegal traction control, so re-legalised it, a rare reversal that reshaped car electronics.",
+      "funFacts": [
+        "The FIA u-turn on traction control happened because policing software-based launch control had become technically impossible.",
+        "Michael Schumacher clinched the title with four races to spare, the earliest in F1 history at the time."
+      ],
+      "isMajorChange": true,
+      "visualComponents": [
+        { "component": "engine", "category": "Power Unit", "label": "Traction control returns", "previousValue": "Electronic driver aids banned", "newValue": "TC and launch control legal" },
+        { "component": "tyre", "category": "Tyres", "label": "Tyre war reignites", "previousValue": "Bridgestone-only era", "newValue": "Bridgestone vs Michelin" },
+        { "component": "engine", "category": "Power Unit", "label": "Beryllium banned", "previousValue": "Exotic beryllium alloys", "newValue": "Beryllium engine alloys banned" }
+      ]
+    },
+    {
+      "year": 2000,
+      "eraName": "V10 Era",
+      "headline": "The 3.0L V10 grooved-tyre formula matures as Ferrari's dominance begins.",
+      "keyChanges": [
+        "Naturally aspirated 3.0-litre V10 engines, free-revving with no rev limit.",
+        "Four longitudinal grooves required on both front and rear dry tyres.",
+        "Electronic driver aids such as traction and launch control remained banned.",
+        "Cockpit side-impact protection requirements strengthened for driver safety."
+      ],
+      "carDimensions": "Maximum width 1800mm and minimum weight 600kg including the driver, on the narrow-track chassis introduced in 1998.",
+      "powerUnit": "A naturally aspirated 3.0-litre V10 revving to around 17,000-18,000 rpm and producing roughly 800 bhp, with no engine-life limits, so fresh engines every session were common.",
+      "aerodynamicRules": "Front and rear wings were largely free within box dimensions, and high-nose concepts and complex bargeboards developed turbulent but powerful aero.",
+      "tyreRegulations": "Grooved dry tyres (four grooves front and rear) had been mandated since 1998 to cut cornering speeds, with Bridgestone the sole supplier this season.",
+      "notableImpact": "Michael Schumacher won Ferrari's first drivers' title since 1979, starting an era of red dominance.",
+      "funFacts": [
+        "Engines of this era could rev beyond 17,000 rpm and were rebuilt after almost every session.",
+        "Ferrari had not won a drivers' championship for 21 years before Schumacher's 2000 title."
+      ],
+      "isMajorChange": true,
+      "visualComponents": [
+        { "component": "tyre", "category": "Tyres", "label": "Grooved tyres", "previousValue": "Slick tyres (pre-1998)", "newValue": "Four grooves front and rear" },
+        { "component": "body", "category": "Chassis", "label": "Narrow track", "previousValue": "2.0m wide track", "newValue": "1.8m narrow track" },
+        { "component": "engine", "category": "Power Unit", "label": "3.0L V10", "previousValue": "3.5L V10 (pre-1995)", "newValue": "3.0L V10, about 800 bhp" }
+      ]
+    }
+  ]
+}
