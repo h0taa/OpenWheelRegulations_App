@@ -12,7 +12,7 @@ OWR lets you explore 27 seasons (2000–2026) of single-seater motorsport season
 |:---:|:---:|:---:|:---:|
 | ![Seasons](screenshots/home.png) | ![Detail](screenshots/detail.png) | ![Comparison](screenshots/comparison.png) | ![Settings](screenshots/settings.png) |
 
-> Add your four screenshots to a `screenshots/` folder in the project root using the names above — or delete this section if you'd rather skip them.
+
 
 ---
 
