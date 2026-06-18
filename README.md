@@ -1,18 +1,10 @@
+[English](README.md) | [ქართული](README.ka.md)
+
 # Open Wheel Regulations (OWR)
 
 **An offline Android reference for the technical-regulation history of top-tier open-wheel racing.**
 
 OWR lets you explore 27 seasons (2000–2026) of single-seater motorsport season by season — what the rules were, what changed each year and why it mattered, and how the cars evolved — including interactive before/after comparisons for the major regulation eras. Everything is bundled in the app, so it works completely offline with no ads, no accounts, and no data collection.
-
----
-
-## Screenshots
-
-| Seasons list | Season detail | Visual comparison | Settings |
-|:---:|:---:|:---:|:---:|
-| ![Seasons](screenshots/home.png) | ![Detail](screenshots/detail.png) | ![Comparison](screenshots/comparison.png) | ![Settings](screenshots/settings.png) |
-
-
 
 ---
 
