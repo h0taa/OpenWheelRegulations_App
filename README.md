@@ -8,6 +8,22 @@ OWR lets you explore 27 seasons (2000–2026) of single-seater motorsport season
 
 ---
 
+## Download
+
+📥 **[Download the latest APK from Releases](https://github.com/h0taa/OpenWheelRegulations_App/releases/latest)** — install it directly on your Android phone (Android 8.0+).
+On install, Android may ask you to allow installs from your browser/file manager — that's normal for apps outside Google Play.
+
+---
+
+## Screenshots
+
+| Seasons list | Season detail | Visual comparison | Settings |
+|:---:|:---:|:---:|:---:|
+| ![Seasons](screenshots/home.png) | ![Detail](screenshots/detail.png) | ![Comparison](screenshots/comparison.png) | ![Settings](screenshots/settings.png) |
+
+
+---
+
 ## Features
 
 - **27 seasons (2000–2026)** — each with a plain-language summary of the key changes and why they mattered.
@@ -41,7 +57,7 @@ OWR lets you explore 27 seasons (2000–2026) of single-seater motorsport season
 ## Build & run
 
 ```bash
-git clone https://github.com/h0taa/open-wheel-regulations.git
+git clone https://github.com/h0taa/OpenWheelRegulations_App.git
 ```
 
 1. Open the cloned folder in **Android Studio**.
